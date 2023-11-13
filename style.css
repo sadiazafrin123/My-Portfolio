@@ -1,0 +1,35 @@
+img{
+    height: 400px;
+    font-weight: 400px;
+}
+.first-section{
+    display: flex;
+    background-color: #E5E7EB;
+    padding-top: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.first-section p{
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+
+.first-section h3{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+.first-section h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:#F49E3F;
+    font-size: 30px;
+    
+     
+}
+.first-div{
+padding-top: 50px;
+}
+.second-div{
+    padding-left: 400px;
+}
