@@ -87,7 +87,7 @@ color: white;
     border-bottom: 1px solid red;
     width: 140px;
     margin-bottom: 40px;
-    margin-left:660px;
+    margin-left:570px;
     
 }
 .third-second-div img{
@@ -105,5 +105,15 @@ color: white;
 }
 .third-second-div h6{
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
+.extra-div{
+    border-bottom: 1px solid red;
+    width: 140px;
+    margin-bottom: 40px;
+    margin-left:570px;
+
+}
+
+ 
+
